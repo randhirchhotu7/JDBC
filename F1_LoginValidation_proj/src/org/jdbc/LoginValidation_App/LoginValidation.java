@@ -1,4 +1,4 @@
-//	Login validation
+//	Login validation Code Using Placeholder 
 
 package org.jdbc.LoginValidation_App;
 import java.sql.*;
